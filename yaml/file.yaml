@@ -11,3 +11,8 @@ purchased:
     - coffee
     - tea
     - milk   
+
+  prize:
+    - one
+      two
+      three
